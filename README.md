@@ -7,7 +7,7 @@ README
 
 ##Usage
 
-For first you must to include the jQuery library in your html page:
+First you must to include the jQuery library in your html page:
 ```javascript
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
 ```
